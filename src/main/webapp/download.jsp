@@ -1,6 +1,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page import="vn.edu.hcmuaf.fit.demo10" %>
-<%@ page import="vn.edu.hcmuaf.fit.demo10" %>
+<%@ page import="murach.download.bai9_1.Product" %>
+<%@ page import="murach.download.bai9_1.User" %>
 <%@ page import="java.util.List" %>
 <%
     Product product = (Product) session.getAttribute("product");
