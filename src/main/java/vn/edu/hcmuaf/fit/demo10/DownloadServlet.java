@@ -1,4 +1,4 @@
-package vn.edu.hcmuaf.fit.demo10;
+package murach.download.bai9_1;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
@@ -122,4 +122,3 @@ public class DownloadServlet extends HttpServlet {
         request.setAttribute("message", "✅ All persistent cookies have been deleted.");
     }
 }
-
