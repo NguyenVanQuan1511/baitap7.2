@@ -1,4 +1,5 @@
-package vn.edu.hcmuaf.fit.demo10;
+package murach.download.bai9_1;
+
 import java.io.Serializable;
 
 public class User implements Serializable {
